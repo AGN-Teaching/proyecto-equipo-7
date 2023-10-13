@@ -7,3 +7,11 @@ Una cadena hotelera consta de varias compañías de hoteles y cada compañía de
 Un cliente puede hacer una reservación para cualquier sucursal de cualquier hotel, pero tiene que registrarse proporcionando su nombre, un número telefónico y una dirección de correo electrónico.
 Las reservaciones son hechas por un asesor, quien solicitará al cliente las fechas de hospedaje, el tipo y cantidad de habitaciones, y el número y edades de los huéspedes. Para que la reservación esté garantizada, el cliente deberá proporcionar los datos de una tarjeta de crédito.
 De acuerdo con los antecedentes se creó el siguiente diagrama UML con el fin de resolver el  problema:
+
+imagen}
+
+## Análisis del problema:
+Para dar solución al 'problema', debemos tener en cuenta a dónde queremos llegar y cómo lo vamos a lograr. Para ello, debemos considerar el uso de clases.
+
+
+### ¿Qué clases se ocuparan y por que?
