@@ -17,7 +17,7 @@ Para dar solución al 'problema', debemos tener en cuenta a dónde queremos lleg
 ### ¿Qué clases se ocuparan y por que?
 
 
-## Tipos de relaciones
+### Tipos de relaciones
 
 ## Conclusiones:
 
