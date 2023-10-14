@@ -15,3 +15,22 @@ Para dar solución al 'problema', debemos tener en cuenta a dónde queremos lleg
 
 
 ### ¿Qué clases se ocuparan y por que?
+
+
+## Tipos de relaciones
+
+## Conclusiones:
+
+### Conclusión de Uriel
+
+La implementación del diagrama UML a un lenguaje de programación es esencial para convertir el diseño visual y conceptual de un sistema en un producto de software funcional y ejecutable. La conclusión clave aquí es que el proceso de traducir un diagrama UML a código no es solo un acto mecánico, sino una fase crítica que requiere comprensión, habilidad y precisión ya que debemos de tener cuidado con diversos temas de la Programación Orientada a Objetos, como lo pueden sen la creación de clases y la manera en la que se relacionan
+
+
+### Conclusión de Eduardo
+
+La Programación Orientada a Objetos (POO) es crucial en el desarrollo de software por varias razones. En primer lugar, permite organizar el código de manera más efectiva al agrupar datos y comportamientos relacionados en objetos, lo que facilita su comprensión y mantenimiento. Además, fomenta la reutilización del código a través de conceptos como la herencia y la encapsulación, lo que reduce la duplicidad y mejora la eficiencia del desarrollo.
+
+
+### Conclusión de Irving
+
+En conclusión, los diseños UML (Lenguaje de Modelado Unificado) son herramientas fundamentales en la Programación Orientada a Objetos (POO) porque nos permiten visualizar, planificar y resolver problemas de manera efectiva y estructurada. Estos diagramas proporcionan una representación gráfica y conceptual de sistemas complejos, lo que facilita la comprensión de los requisitos del usuario y el diseño de soluciones eficientes en el contexto de la POO.
