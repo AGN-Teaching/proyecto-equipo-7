@@ -8,13 +8,45 @@ Un cliente puede hacer una reservación para cualquier sucursal de cualquier hot
 Las reservaciones son hechas por un asesor, quien solicitará al cliente las fechas de hospedaje, el tipo y cantidad de habitaciones, y el número y edades de los huéspedes. Para que la reservación esté garantizada, el cliente deberá proporcionar los datos de una tarjeta de crédito.
 De acuerdo con los antecedentes se creó el siguiente diagrama UML con el fin de resolver el  problema:
 
-imagen}
+imagennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn}
 
 ## Análisis del problema:
 Para dar solución al 'problema', debemos tener en cuenta a dónde queremos llegar y cómo lo vamos a lograr. Para ello, debemos considerar el uso de clases.
 
 
 ### ¿Qué clases se ocuparan y por que?
+
+
+#### Clase CadenaHotelera:
+
+La clase CadenaHotelera tiene como atributos un nombre de tipo String, un número de contacto de tipo entero (int). Este número de contacto se refiere al número de las compañías de hoteles. Y un arreglo que guarde los nombres de las compañías de Hotel []. En los métodos, tendríamos getters de los respectivos atributos.
+
+
+#### Clase CompañiaDeHoteles:
+
+
+La clase CompañíaDeHoteles tiene los siguientes atributos: número telefónico de tipo entero (int) y nombre de tipo String. El método de la clase sería un getter, el cual nos proporcionará el número telefónico correspondiente al número de teléfono del hotel.
+
+
+#### Clase Hotel_All_Inclusive:
+
+
+#### Clase Hotel_business:
+
+
+#### Clase Hotel_fiveStars:
+
+
+#### Clase Sucursal:
+
+
+#### Clase Cliente:
+
+
+#### Clase Asesor:
+
+
+#### Clase Reservacion:
 
 
 ### Tipos de relaciones
