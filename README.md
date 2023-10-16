@@ -8,7 +8,10 @@ Un cliente puede hacer una reservación para cualquier sucursal de cualquier hot
 Las reservaciones son hechas por un asesor, quien solicitará al cliente las fechas de hospedaje, el tipo y cantidad de habitaciones, y el número y edades de los huéspedes. Para que la reservación esté garantizada, el cliente deberá proporcionar los datos de una tarjeta de crédito.
 De acuerdo con los antecedentes se creó el siguiente diagrama UML con el fin de resolver el  problema:
 
-imagennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn}
+
+![Proyecto-Página-6 drawio](https://github.com/AGN-Teaching/proyecto-equipo-7/assets/125332082/388e777b-fc0c-4373-a374-01fe73292bd8)
+
+
 
 ## Análisis del problema:
 Para dar solución al 'problema', debemos tener en cuenta a dónde queremos llegar y cómo lo vamos a lograr. Para ello, debemos considerar el uso de clases.
