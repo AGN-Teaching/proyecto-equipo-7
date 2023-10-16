@@ -95,14 +95,11 @@ Las tres clases, Hotel_All_Inclusive, Hotel_Business y Hotel_FiveStars, tienen a
 ![Asociacion drawio](https://github.com/AGN-Teaching/proyecto-equipo-7/assets/125332082/364f1def-43f9-46dc-a97f-338284de18a8)
 
 
+
 #### *Manejo de errores*
 
 
-![Captura de pantalla 2023-10-15 224147](https://github.com/AGN-Teaching/proyecto-equipo-7/assets/125332082/34575157-f2ce-4846-9f28-62cc4b214f79)
-
-
-Aquí mostramos uno de los manejos de errores:
-La función cargar_clientes_registrados maneja el caso en el que el archivo de registros no se encuentra, evitando un error FileNotFoundError. La función guardar_registro_cliente se encarga de guardar los registros del cliente en el archivo.
+![Captura de pantalla 2023-10-15 224147](https://github.com/AGN-Teaching/proyecto-equipo-7/assets/125332082/0dc031bf-f7d4-44a3-ae56-9a713edc03bf)
 
 
 El manejo de errores debe ser específico para cada situación en la que se pueda producir un error y debe proporcionar mensajes de error claros y descriptivos para que el usuario comprenda lo que salió mal.
