@@ -31,22 +31,44 @@ La clase CompañíaDeHoteles tiene los siguientes atributos: número telefónico
 #### Clase Hotel_All_Inclusive:
 
 
+Creamos la clase Hotel_All_Inclusive, la cual va a heredar de la clase padre los atributos: número telefónico y el nombre, que se va a referir al nombre del hotel. Sus atributos en particular son los tipos de habitaciones que se mencionan en los antecedentes, con sus respectivos getters.
+
+
 #### Clase Hotel_business:
+
+
+La clase Hotel_business de igual manera va a heredar los atributos de la clase padre, y sus atributos son los tipos de habitaciones que ya fueron establecidos en los antecedentes. En este caso, solo es uno y, por ende, tendría un método getter.
 
 
 #### Clase Hotel_fiveStars:
 
 
+La clase Hotel_fiveStars hereda los atributos de la clase padre, y sus atributos en particular serían los tipos de habitaciones con sus respectivos getters.
+
+
+
 #### Clase Sucursal:
+
+Para poder realizar la clase Sucursal, debemos tomar en cuenta lo que nos mencionan los antecedentes. Si consideramos que los tres hoteles tienen cada uno una sucursal, podemos hacer una clase que tenga como atributos una dirección de tipo String, un teléfono para cada sucursal de tipo entero (int) y una clasificación de tipo String, junto con sus métodos getters.
 
 
 #### Clase Cliente:
+
+La clase Cliente tiene como atributos: ID de tipo entero (int), nombre del cliente de tipo String, el número de teléfono de tipo entero (int), el correo electrónico de tipo String y un atributo donde se almacenarán los datos de la tarjeta, el cual tiene el nombre de tarjeta: []. Los métodos de la clase Cliente son getters de los respectivos atributos.
 
 
 #### Clase Asesor:
 
 
+Funciones de la clase Asesor: Gestiona las interacciones con los clientes, permitiendo el registro de usuarios, reservas, consulta de disponibilidad y adición de sucursales.
+
+La clase Asesor no cuenta con atributos, y solo tiene un método, el cual almacenará los datos del cliente mediante un arreglo.
+
+
 #### Clase Reservacion:
+
+
+La clase Reservación tiene como método las fechas de reservación y dos métodos: uno es un getter, para saber qué días están disponibles para hacer una reservación, y el otro se encarga de agregar la reservación.
 
 
 ### Tipos de relaciones
