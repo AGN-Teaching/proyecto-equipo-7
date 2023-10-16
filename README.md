@@ -73,6 +73,15 @@ La clase Reservación tiene como método las fechas de reservación y dos métod
 
 ### Tipos de relaciones
 
+#### Herencia
+
+
+Como mencionamos anteriormente, existen tres tipos de clases que establecen una relación de herencia, ya que heredan atributos de la clase base 'CompañíaDeHoteles'. Estos tipos de clases son subclases que extienden las propiedades y comportamientos de la clase padre, aprovechando la estructura jerárquica para compartir atributos y métodos comunes.
+
+
+![Herencia drawio](https://github.com/AGN-Teaching/proyecto-equipo-7/assets/125332082/4ef5ba62-2cf8-47be-8971-39800f5ab8e0)
+
+
 ## Conclusiones:
 
 ### Conclusión de Uriel
