@@ -6,6 +6,8 @@
 Una cadena hotelera consta de varias compañías de hoteles y cada compañía de hoteles tiene varias sucursales. Los hoteles que forman esta cadena se clasifican como all inclusive, business class o five stars. Los hoteles all inclusive tienen 3 tipos de habitaciones: suites, doble y sencilla. Los hoteles business class tienen un solo tipo de habitación. Los hoteles five stars tienen dos tipos de habitaciones: familiar y estándar.
 Un cliente puede hacer una reservación para cualquier sucursal de cualquier hotel, pero tiene que registrarse proporcionando su nombre, un número telefónico y una dirección de correo electrónico.
 Las reservaciones son hechas por un asesor, quien solicitará al cliente las fechas de hospedaje, el tipo y cantidad de habitaciones, y el número y edades de los huéspedes. Para que la reservación esté garantizada, el cliente deberá proporcionar los datos de una tarjeta de crédito.
+
+
 De acuerdo con los antecedentes se creó el siguiente diagrama UML con el fin de resolver el  problema:
 
 
