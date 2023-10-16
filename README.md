@@ -86,7 +86,14 @@ Como mencionamos anteriormente, existen tres tipos de clases que establecen una 
 
 ![Herencia drawio](https://github.com/AGN-Teaching/proyecto-equipo-7/assets/125332082/4ef5ba62-2cf8-47be-8971-39800f5ab8e0)
 
-#### *Agregación*
+#### *Asociación*
+
+
+Las tres clases, Hotel_All_Inclusive, Hotel_Business y Hotel_FiveStars, tienen asociación con Sucursal, ya que los tres hoteles le brindan servicio a las sucursales. Sucursal y Cliente tienen asociación con Asesor, ya que estas dos clases le proporcionan servicio a la clase Asesor para que este último brinde servicio a la clase Reservación, la cual se encargará de solucionar la problemática inicial.
+
+
+![Asociacion drawio](https://github.com/AGN-Teaching/proyecto-equipo-7/assets/125332082/364f1def-43f9-46dc-a97f-338284de18a8)
+
 
 ## Conclusiones:
 
