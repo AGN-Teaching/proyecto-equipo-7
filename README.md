@@ -92,6 +92,9 @@ Como mencionamos anteriormente, existen tres tipos de clases que establecen una 
 Las tres clases, Hotel_All_Inclusive, Hotel_Business y Hotel_FiveStars, tienen asociación con Sucursal, ya que los tres hoteles le brindan servicio a las sucursales. Sucursal y Cliente tienen asociación con Asesor, ya que estas dos clases le proporcionan servicio a la clase Asesor para que este último brinde servicio a la clase Reservación, la cual se encargará de solucionar la problemática inicial.
 
 
+![Asociacion drawio](https://github.com/AGN-Teaching/proyecto-equipo-7/assets/125332082/364f1def-43f9-46dc-a97f-338284de18a8)
+
+
 #### *Manejo de errores*
 
 
@@ -100,9 +103,6 @@ Las tres clases, Hotel_All_Inclusive, Hotel_Business y Hotel_FiveStars, tienen a
 
 Aquí mostramos uno de los manejos de errores:
 La función cargar_clientes_registrados maneja el caso en el que el archivo de registros no se encuentra, evitando un error FileNotFoundError. La función guardar_registro_cliente se encarga de guardar los registros del cliente en el archivo.
-
-
-![Asociacion drawio](https://github.com/AGN-Teaching/proyecto-equipo-7/assets/125332082/364f1def-43f9-46dc-a97f-338284de18a8)
 
 
 El manejo de errores debe ser específico para cada situación en la que se pueda producir un error y debe proporcionar mensajes de error claros y descriptivos para que el usuario comprenda lo que salió mal.
