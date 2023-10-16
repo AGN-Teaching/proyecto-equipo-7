@@ -86,7 +86,7 @@ Como mencionamos anteriormente, existen tres tipos de clases que establecen una 
 
 ### Conclusión de Uriel
 
-La implementación del diagrama UML a un lenguaje de programación es esencial para convertir el diseño visual y conceptual de un sistema en un producto de software funcional y ejecutable. La conclusión clave aquí es que el proceso de traducir un diagrama UML a código no es solo un acto mecánico, sino una fase crítica que requiere comprensión, habilidad y precisión ya que debemos de tener cuidado con diversos temas de la Programación Orientada a Objetos, como lo pueden sen la creación de clases y la manera en la que se relacionan
+La implementación del diagrama UML a un lenguaje de programación es esencial para convertir el diseño visual y conceptual de un sistema en un producto de software funcional y ejecutable. La conclusión clave aquí es que el proceso de traducir un diagrama UML a código no es solo un acto mecánico, sino una fase crítica que requiere comprensión, habilidad y precisión ya que debemos de tener cuidado con diversos temas de la Programación Orientada a Objetos, como lo pueden ser la creación de clases y la manera en la que se relacionan y con este proyecto se pone a prueba todo lo visto en la UEA Programación Orientada a Objetos.
 
 
 ### Conclusión de Eduardo
