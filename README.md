@@ -15,7 +15,7 @@ De acuerdo con los antecedentes se creó el siguiente diagrama UML con el fin de
 
 
 
-## Análisis del problema:
+# Análisis del problema:
 Para dar solución al 'problema', debemos tener en cuenta a dónde queremos llegar y cómo lo vamos a lograr. Para ello, debemos considerar el uso de clases.
 
 
