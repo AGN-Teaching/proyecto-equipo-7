@@ -96,13 +96,6 @@ Las tres clases, Hotel_All_Inclusive, Hotel_Business y Hotel_FiveStars, tienen a
 
 
 
-#### *Manejo de errores*
-
-
-![Captura de pantalla 2023-10-15 224147](https://github.com/AGN-Teaching/proyecto-equipo-7/assets/125332082/0dc031bf-f7d4-44a3-ae56-9a713edc03bf)
-
-
-El manejo de errores debe ser específico para cada situación en la que se pueda producir un error y debe proporcionar mensajes de error claros y descriptivos para que el usuario comprenda lo que salió mal.
 ## Conclusiones:
 
 
